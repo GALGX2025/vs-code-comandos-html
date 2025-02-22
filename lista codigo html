@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <style>
+   div: hover {
+     color: yellow;
+   }
+  </style>
+  <link rel="icon" href="images.png">
+  <title>Hello Word GX</title>
+  <link href="style.css" rel="stylesheet" type="text/css"
+
+
+
+<head>
+
+ 
+<body style="background-image: linear-gradient(to left, darkblue, blue);
+  text-align: jutify;">
+  <header>
+    <h1 style="color: white; text-align: center;
+      box-shadow: inset 2px 2px 2px  black;
+      border-radius: 10px;
+      "
+</h1>Hello Word GX</h1>
+  <main style="background-color: white;
+    color: black;
+    wiidth: 600px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align:;
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px black;">
+  
+    <h1 style="text-align: center;
+      text-shadow: 3px 3px 3px black;
+      margin: auto;
+      "><ins>Hello world</center></ins>
+      <h2 style="text-align: center;
+        "><ins>
+comando das tags
+</ins>
+</h2>
+
+  <p style=text-indent: 30px;>
+    <li><ins> tag ins=sublinhado.</ins></l1><br />
+   <li><del>
+     tag del=tachadura. </del></li>
+   <strong><br/><li>tag  strong=negrito.</li></strong>
+    <small><br/><li> tag small=pequeno.</li></small><br/>
+     <code><li>
+        tag code=espaço igual para todos os caracteres.</li>
+     </code><br/><q> tag q=citação ou aspas.</q><br/><ol>
+        <li>tag ol=lista ordenada com números.</li>
+       <li>tag li=cada item da lista.</li>
+       <ol>
+          <li type="a">também tem como colocar uma lista dentro da outra e trocarbis números por Letras.</li>
+         <li>quando eu for criar um link tenho que colocar a tag target="_blank" para abrir o link em uma nova aba.</li>
+         
+       </ol>
+       
+     </ol><br/><a href="https://sites.google.com/al.educacao.sp.gov.br/jornal/p%C3%A1gina-inicial?fbclid=PAAabTuJ0IZEzWHonlvFtJtEhRz9eUCpd7KXRE0l2vgdUDlJ_tK97htcEaM_s"target="_blank"rel="external">tag a=link,como por exemplo o link do jornal que eu criei na minha antiga escola.</a>
+      <br/>
+      
+      <audio src="Gooooool_www.toquesengracadosmp3.com" controls> tag áudio=audio,como por exemplo uma música.</audio>
+      <br/>
+      
+     <center><video src="VID-20240130-WA0003.mp4" controls auto play loop> tag video=vídeo,como por exemplo um video do YouTube.</video></center><br>tag video=inserir um vídeo.<br/>tag iframe=inserir vídeo do YouTube.
+      <br/>
+      <div style="background-color: gray;
+    padding: 20px;">
+      <center><iframe width="90%" height="250px" src="https://www.youtube.com/embed/iAbpHWKvYzs?si=hDRlaIPtca9V34GX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center></div>
+      <br>
+      
+      <center><img src="IMG_2024-02-05-15481063.jpg";
+    heiht="200" width="200" alt="pokémon feliz" title="pokémon feliz";/></center><li>tag img=imagem,como por exemplo uma imagem.</li></img><br/>
+  </main>
+    <main style="background-image: url(images1.jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachement: fixed;
+      border-radius: 10px;"> 
+  </p>
+  <h3 style="background-image: linear-gradient(to left, blue, darkblue);); color:white;
+    border-radius: 10px 10px 0px 0px;
+    widht: 100%;
+    height: 100%;"><center>Cores CSS</h3>
+      <p style="background-color:black; color:white;">
+         <lo >
+<li>tag style=para colocar cores em CSS,bacground-color=cor de fundo,color=cor da letra.</li></lo>
+      </p>
+    <h3 style="background-image: linear-gradient(to left, red, purple);
+      box-shadow: 5px 5px 7px black;")>
+       <center>degradê de cores
+    </h3>
+      <p style="text-align: justify;">
+        <lo>
+          <li> tag style=para colocar degradê de cores,background-image=degradê,linear-gradient= cores e direção do degradê. </li>
+        </lo>
+      </p>
+  <h3 style="background-image: linear-gradient(to left, red, purple);
+    text-align: center;
+    box-shadow: 5px 5px 7px black;"")>outras tags CSS</h3>
+  <p>
+     <lo>
+       <li>border-radius=arredondar bordas.</li>
+         <li>box-shadow=sombra.</li>
+         <li>width=largura.</li>
+         <li>height=altura.</li>
+         <li><lo>text-align=alinhamento.<li>text-align: center=centralizar.</li>
+           <li>tex-align: left=esquerda.</li>
+      <li>text-align: right=direita.</li>
+           <li>text-align: justify=alinhar dos dois lados.</li>
+           <li>text-indent= espaço do começo do parágrafo.</li>
+           
+         </lo></li>
+         <li>text-shadown=sombra no texto.</li>
+     
+     <div pseudo-class="hover color: red;">
+       <li>div:hover=passar o mouse sobre a div muda a cor.</li>
+     </div>
+    <li>margin:auto=centralizar.</li>
+       <li>header=cabeçalho.</li>
+       <li>footer=rodapé.</li><li>input teg type="text"=criar caixa de texto.</li><li>inpu teg type="number"=criar caixa de número.<li>input type="password"=criar caixa de senha.</li><li style="filter: drop-shadow(5px 5px 5px black);">filter: drop-shadow=sombra em objetos.</li>
+       <br><input teg type="text" placeholder="digite seu nome" /><br><input teg type="password" placeholder="digite sua senha" />
+       
+       
+    <h3 style="border: 12px;
+      border-image-source: url(https://www.google.com/url?sa=i&url=https%3A%2);
+      border-image-slice: 20% 20% 20% 20%;">testando fundo de imagem
+</h3>
+  
+   
+    
+     
+  
+     
+  
+     
+         
+         
+         
+       
+  </p>
+  <div style="background-color: withe;
+    width: 250px;
+    height: 250px;
+  border-radius: 50%;">círculo
+     </div>
+      
+      <code>
+
+   </code>
+
+    </h1>
+    <div style="background-color: gray;
+  background-image: url(IMG_20231203_175508516.jpg); 
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+      ">
+     <ins><h1 style="color: white;
+        text-align: center;"">testando fundo de imagem</h1></ins>
+      <p>
+         lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum
+        lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum
+        lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum
+        lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum dolor sit amet, consectetur lore ipsum
+      </p>
+      
+    
+    </div>
+    <li>background-size=tamanho da imagem.</li><li>background-size: contain=mostrar a imagem inteira.</li><li>background-size: cover=mostrar a imagem inteira, mas sem perder a proporção.</li><li>background-attachement=fixa a imagem.</li>
+    </main>
+    
+    
+    
+    
+    <div>
+
+    </div>
+    <input type="color"/>
+<input type="date"/>
+    <input type="checkbox"/>
+    <input type="datetime-local"/>
+    <input type="button"
+      heigth="150"
+      width="150"
+onclik="alert('clicou')"/>
+    <script src="script.js"></script>
+ 
+ 
+</body>
+<footer style= "background-color: black;
+  color: white;
+  margin: auto;
+  text-align: center;
+  text-shadow: 4px 4px 4px gray;
+""><h1><ins>
+   Site criado por:<a style="color: white;"href="https://www.instagram.com/xavierlazarogabriel/" target="_blank" rel="external">Gabriel Xavier</a></ins>
+</h1></footer>
+
+</html>
